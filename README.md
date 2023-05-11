@@ -9,8 +9,8 @@ lemonwsx的个人主页
       <p><b>邮箱：lemonwsx@163.com</b></p>
       <p><b>地址：杭州市西湖区留和路路288号浙江工业大学，计算机楼，邮编310023</b></p>
     </td>
-    <td width="25%">
+<!--     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
-    </td>
+    </td> -->
   </tr>
 </table>
